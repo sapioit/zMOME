@@ -1,5 +1,5 @@
-# zDevDocsOffline
-A DevDocs client (for offline use). Written in [Electron](https://github.com/atom/electron).
+# z[MOME](https://github.com/pioul/Minimalist-Online-Markdown-Editor)
+A markdown editor. Written in [Electron](https://github.com/atom/electron).
 
 
 
